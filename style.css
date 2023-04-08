@@ -1,0 +1,22 @@
+h1, p {
+    margin-left: 200px;
+}
+p {
+    font-size: 70px;
+}
+span {
+    color: blue;
+}
+/*Navigation bar*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: purple;
+}
+nav ul li {
+    border: 1px solid rgb(66, 0, 128);
+    padding: 10px;
+    list-style: none;
+    display: inline;
+}
